@@ -1,0 +1,31 @@
+{
+  "name": "ng-google-maps",
+  "version": "0.0.1",
+  "description": "Angular Component for Google MAP JavaScript API V3",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theeraphon/ng-google-maps.git"
+  },
+  "keywords": [
+    "Google",
+    "Map",
+    "Angular",
+    "Google",
+    "Map",
+    "JavaScript",
+    "API"
+  ],
+  "author": "Theeraphon Samathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theeraphon/ng-google-maps/issues"
+  },
+  "homepage": "https://github.com/theeraphon/ng-google-maps#readme",
+  "dependencies": {
+    "@angular/cli": "^1.7.4"
+  }
+}
